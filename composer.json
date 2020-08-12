@@ -1,0 +1,7 @@
+{
+    "name": "usuario/heiner",
+    "license": "IMT",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.10"
+    }
+}
